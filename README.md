@@ -61,3 +61,13 @@ Introduction to App:
 
 
 
+Resources Used:
+
+• Watson Assistant
+
+• Cloudant
+
+• Cloud Foundry
+
+• Nodejs
+
